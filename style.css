@@ -1,1 +1,11 @@
-!
+.navbar-brand img{
+    width: 70%;
+}
+.custom-btn{
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
