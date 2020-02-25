@@ -9,3 +9,29 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.card{
+    box-shadow: 10px 10px 10px darkgray;
+}
+.cat-img{
+    width: 100%;
+}
+.cus-bottom1:hover, .cus-bottom2:hover {
+    transform: translateY(-10px);
+}
+.cus-bottom1{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 3px;
+    text-align: center;
+    / border-radius: 20px 0 20px 0px; /
+}
+.cus-bottom2{
+    margin-bottom: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 22px;
+    text-align: center;
+    / border-radius: 20px 0 20px 0px; /
+}
